@@ -24,7 +24,7 @@ Analyzed US consumer complaint data to identify complaint trends, disputed cases
 Excel | Pivot Tables | Pivot Charts | KPI Reporting | Dashboard Design
 
 🔗 Repository Link:  
-[Consumer Complaint Analysis Repository](https://github.com/mokshkapoor-analyst/consumer-complaint-analysis?utm_source=chatgpt.com)
+[Consumer Complaint Analysis Repository](https://github.com/mokshkapoor-analyst/excel-consumer-complaint-analysis)
 
 ---
 
@@ -36,7 +36,7 @@ Analyzed customer ordering patterns, restaurant performance, delayed deliveries,
 Excel | Data Cleaning | Pivot Tables | Dashboard Design | Business Analysis
 
 🔗 Repository Link:  
-[Swiggy Order Analysis Repository](https://github.com/mokshkapoor-analyst/swiggy-order-analysis?utm_source=chatgpt.com)
+[Swiggy Order Analysis Repository](https://github.com/mokshkapoor-analyst/excel-swiggy-order-analysis)
 
 ---
 
@@ -48,7 +48,7 @@ Built an interactive analytics dashboard using Excel, Power Query, and Power Piv
 Excel | Power Query | Power Pivot | Data Modeling | Dashboard Design
 
 🔗 Repository Link:  
-[Zomato Sales Analysis Repository](https://github.com/mokshkapoor-analyst/zomato-sales-analysis?utm_source=chatgpt.com)
+[Zomato Sales Analysis Repository](https://github.com/mokshkapoor-analyst/excel-zomato-order-analysis)
 
 ---
 
